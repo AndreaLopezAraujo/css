@@ -1,0 +1,29 @@
+.azul {
+  color: blue;
+}
+.naranja {
+  color: orange;
+}
+.rojo {
+  color: red;
+}
+.centrar {
+  text-align: center;
+}
+.negrilla {
+  font-weight: bold;
+}
+#encabezado {
+  color: blue;
+  background-color: pink;
+}
+.edad {
+  color: orangered;
+  font-weight: bold;
+  font-size: large;
+}
+.cuadrado {
+  width: 150px;
+  height: 10px;
+  background-color: greenyellow;
+}
